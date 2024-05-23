@@ -58,13 +58,11 @@ Once the webpage has been loaded, take your time and explore the websites functi
     margin-bottom: 10px;
     text-align: center;
 }
-
-# .benefit-brand h3 {
+ .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-# .benefit-cost h3 {
+ .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
     
