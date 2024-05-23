@@ -38,7 +38,8 @@ Once the webpage has been loaded, take your time and explore the websites functi
     </div>
 
 ## Refactored Header
-# <header class="container">
+```
+<header class="container"> 
         <h1>Horiseon</h1>
         <nav class="text-right">
             <ul>
@@ -49,13 +50,14 @@ Once the webpage has been loaded, take your time and explore the websites functi
             </ul>
         </nav>
     </header>
-
+```
 ## CSS
 - Changes involving CSS had to do more with consolidating the class', by grouping them it reduced the repetitiveness of the code.
 - By doing this is improves the readbility of the code and its efficiency, for example, if someone need to make changes to website visual design rather and rewriting the same elements multiple times by grouping the elements that share the same properties can be changed in tandem. 
 
 ## Original Code:
-# .benefit-lead h3 {
+
+ .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
