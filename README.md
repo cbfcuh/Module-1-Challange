@@ -84,6 +84,12 @@ Contributions are most welcomed, imrpovements and suggestions on areas that coul
 4. Push to the branch
 5. Open a PR
 
+## Live Application
+But clicking <a href="https://cbfcuh.github.io/Module-1-Challange/">here</a>, it will open to the webpage that has been refactored by me/
+
+## Credits
+Starter code was taken from https://github.com/coding-boot-camp/urban-octo-telegram
+
 
 
 
