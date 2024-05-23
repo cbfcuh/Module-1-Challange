@@ -15,7 +15,7 @@ Once the webpage has been loaded, take your time and explore the websites functi
 ## Changes that were made
 
 ## HTML
-- First, changes to the HTML file was made such as replacing the "<div>" element with relevant semantics such as tags like "<header>", "<nav>", "<main>", "<section>", "<footer>" and "<figure>". By making these changes the files' readability and structure was improved.
+- First, changes to the HTML file was made such as replacing the "<div>" element with relevant semantics such as tags like "header", "nav", "main", "section", "footer" and "figure". By making these changes the files' readability and structure was improved.
 - ALT attributes were added to maximise the images accessibility and SEO.
 
 ## Original Header
