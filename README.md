@@ -19,8 +19,9 @@ Once the webpage has been loaded, take your time and explore the websites functi
 - ALT attributes were added to maximise the images accessibility and SEO.
 
 ## Original Header
-  # <div class="header">
-   #     <h1>Hori<span class="seo">seo</span>n</h1>
+
+#   <div class="header">
+        <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
             <ul>
                 <li>
@@ -58,7 +59,7 @@ Once the webpage has been loaded, take your time and explore the websites functi
     margin-bottom: 10px;
     text-align: center;
 }
- .benefit-brand h3 {
+.benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
