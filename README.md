@@ -19,8 +19,8 @@ Once the webpage has been loaded, take your time and explore the websites functi
 - ALT attributes were added to maximise the images accessibility and SEO.
 
 ## Original Header
-
-#   <div class="header">
+```
+   <div class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
             <ul>
@@ -36,7 +36,7 @@ Once the webpage has been loaded, take your time and explore the websites functi
             </ul>
         </div>
     </div>
-
+```
 ## Refactored Header
 ```
 <header class="container"> 
@@ -56,7 +56,7 @@ Once the webpage has been loaded, take your time and explore the websites functi
 - By doing this is improves the readbility of the code and its efficiency, for example, if someone need to make changes to website visual design rather and rewriting the same elements multiple times by grouping the elements that share the same properties can be changed in tandem. 
 
 ## Original Code:
-
+```
  .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -68,13 +68,14 @@ Once the webpage has been loaded, take your time and explore the websites functi
  .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-    
+```
 ## Refactored Code:
+```
 # .benefit-lead h3, .benefit-brand h3,.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+```
 ## Contributions
 Contributions are most welcomed, imrpovements and suggestions on areas that could have been done more efficiently is greatly appreciated. To do so: 
 1. Fork the repository
